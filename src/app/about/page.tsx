@@ -1679,7 +1679,7 @@ table thead th,.styled-table thead th,.feature-table thead th,.comparison-table 
         <div class="cta-content">
             <h2>Don't See Your Role?</h2>
             <p>We're always looking for talented people. Send us your resume and tell us what you're excited to build.</p>
-            <a href="contact.html" class="btn-white">Get in Touch</a>
+            <a href="/contact" class="btn-white">Get in Touch</a>
         </div>
     </section>
     </section>
