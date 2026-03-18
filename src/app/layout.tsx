@@ -19,7 +19,7 @@ export default function RootLayout({
         <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800;900&display=swap" rel="stylesheet" />
       </head>
       <body>
-        <div dangerouslySetInnerHTML={{ __html: `<nav>
+        <div style={{position: 'fixed', top: 0, left: 0, right: 0, zIndex: 9999}} dangerouslySetInnerHTML={{ __html: `<nav>
   <div class="top-accent"></div>
   <div class="inner">
     <a href="/" class="logo">TORQUEDESK AI</a>
